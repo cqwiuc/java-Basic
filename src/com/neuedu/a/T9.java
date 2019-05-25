@@ -6,6 +6,6 @@ public class T9 {
         for( int i=1;i<=9;i++){
             a=a*i;
         }
-System.out.println("9"+a);
+System.out.println("9！"+a);
     }
 }
